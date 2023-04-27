@@ -1,5 +1,5 @@
 # DevAgil_270423
-Atividade de Desenvolvimento Ágil feita no dia 27/04/2023
+Atividade de Desenvolvimento Ágil feita no dia 27/04/2023 feito no github
 
 ## Nome: Lucas Barbaroto Miotto
 ## RA: 22.01388-0
